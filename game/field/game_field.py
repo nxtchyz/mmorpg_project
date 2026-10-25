@@ -1,5 +1,4 @@
 from collections.abc import Iterable
-from copy import deepcopy
 
 from game.factories.unit_factory import UnitFactory
 from game.field.game_field_iterator import GameFieldIterator
